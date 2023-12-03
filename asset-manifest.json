@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DesarrolloWeb/static/css/main.87292b07.css",
+    "main.js": "/DesarrolloWeb/static/js/main.90300c45.js",
+    "static/js/787.9ad06c11.chunk.js": "/DesarrolloWeb/static/js/787.9ad06c11.chunk.js",
+    "static/media/LOGO_UNEG.png": "/DesarrolloWeb/static/media/LOGO_UNEG.f64d31b26ff119ed0f22.png",
+    "index.html": "/DesarrolloWeb/index.html",
+    "main.87292b07.css.map": "/DesarrolloWeb/static/css/main.87292b07.css.map",
+    "main.90300c45.js.map": "/DesarrolloWeb/static/js/main.90300c45.js.map",
+    "787.9ad06c11.chunk.js.map": "/DesarrolloWeb/static/js/787.9ad06c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87292b07.css",
+    "static/js/main.90300c45.js"
+  ]
+}
